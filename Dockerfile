@@ -1,4 +1,4 @@
-FROM alpine:3.20
+FROM alpine:3.23
 
 LABEL org.opencontainers.image.source=https://github.com/liecorp/php-nginx
 
